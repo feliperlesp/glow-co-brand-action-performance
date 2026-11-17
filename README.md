@@ -1,4 +1,5 @@
 # Glow & Co. | Brand Action Performance (2023-2025)
+![Dashboard preview](dashboard.png)
 
 **Live dashboard:** [Tableau Public](https://public.tableau.com/app/profile/felipe.lima5576/viz/GlowCo-BrandActionPerformance/BrandActionPerformance)
 
